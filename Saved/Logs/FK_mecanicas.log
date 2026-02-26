@@ -1456,3 +1456,658 @@ Script Stack (0 frames) :
 [2026.02.26-15.19.24:866][ 28]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2026.02.26-15.19.24:866][ 28]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2026.02.26-15.19.24:866][ 28]AssetCheck: /Game/nivel_0 Validating asset
+[2026.02.26-15.21.50:541][688]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1046.171021
+[2026.02.26-15.21.50:729][698]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.26-15.21.50:729][698]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1046.340698, Update Interval: 345.444519
+[2026.02.26-15.27.44:486][322]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1400.118164
+[2026.02.26-15.27.44:662][331]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.26-15.27.44:662][331]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1400.274658, Update Interval: 357.436432
+[2026.02.26-15.34.07:848][677]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1783.485352
+[2026.02.26-15.34.08:036][687]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.26-15.34.08:037][688]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1783.653809, Update Interval: 321.541199
+[2026.02.26-15.40.08:421][802]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2144.060059
+[2026.02.26-15.40.08:613][812]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.26-15.40.08:613][813]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2144.231689, Update Interval: 349.787903
+[2026.02.26-15.40.13:287][ 58]LogStreaming: Display: FlushAsyncLoading(529): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.26-15.40.13:293][ 58]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/llave/llave.llave
+[2026.02.26-15.40.13:294][ 58]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_3
+[2026.02.26-15.40.15:334][ 58]LogSlate: Took 0.006336 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2026.02.26-15.40.31:932][978]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_4
+[2026.02.26-15.42.32:829][848]LogSlate: Took 0.005993 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2026.02.26-15.43.05:989][391]LogSlate: Window 'Change Variable Type' being destroyed
+[2026.02.26-15.43.19:094][577]LogSlate: Window 'Find in Blueprints' being destroyed
+[2026.02.26-15.43.19:097][577]LogSlate: Window 'Find in Blueprints' being destroyed
+[2026.02.26-15.43.50:741][143]LogBlueprint: Warning: [AssetLog] C:\Users\DamianRamosPlanell\Documents\GitHub\FK_mecanicas\Content\llave\llave.uasset: [Compiler] 'BP Third Person Character' does not inherit from 'Player Controller' ( Cast To BP_ThirdPersonCharacter  would always fail).
+[2026.02.26-15.43.50:810][143]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2026.02.26-15.44.04:469][878]LogStreaming: Display: FlushAsyncLoading(720): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.26-15.44.04:487][878]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/puerta+llave/puerta1.puerta1
+[2026.02.26-15.44.04:487][878]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_5
+[2026.02.26-15.45.47:961][888]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.26-15.45.48:009][888]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/llave/llave] ([2] browsable assets)...
+[2026.02.26-15.45.48:044][888]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/llave/llave.llave]
+[2026.02.26-15.45.48:044][888]OBJ SavePackage: Finished generating thumbnails for package [/Game/llave/llave]
+[2026.02.26-15.45.48:044][888]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/llave/llave" FILE="../../../../../../Users/DamianRamosPlanell/Documents/GitHub/FK_mecanicas/Content/llave/llave.uasset" SILENT=true
+[2026.02.26-15.45.48:050][888]LogSavePackage: Moving output files for package: /Game/llave/llave
+[2026.02.26-15.45.48:051][888]LogSavePackage: Moving '../../../../../../Users/DamianRamosPlanell/Documents/GitHub/FK_mecanicas/Saved/llave1AC920BE49939C9D771DDE8CD74D8C28.tmp' to '../../../../../../Users/DamianRamosPlanell/Documents/GitHub/FK_mecanicas/Content/llave/llave.uasset'
+[2026.02.26-15.45.48:059][888]LogFileHelpers: InternalPromptForCheckoutAndSave took 97.557 ms (total: 166.986 ms)
+[2026.02.26-15.45.48:107][888]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.26-15.45.48:107][888]LogContentValidation: Enabled validators:
+[2026.02.26-15.45.48:107][888]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.26-15.45.48:107][888]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.26-15.45.48:107][888]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.26-15.45.48:107][888]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.26-15.45.48:107][888]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.26-15.45.48:107][888]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.26-15.45.48:108][888]AssetCheck: /Game/llave/llave Validating asset
+[2026.02.26-15.45.50:738][193]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2026.02.26-15.46.51:108][461]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2546.754395
+[2026.02.26-15.46.51:301][471]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.26-15.46.51:301][471]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2546.928223, Update Interval: 335.459473
+[2026.02.26-15.52.32:577][533]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.26-15.52.32:625][533]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/llave/llave] ([2] browsable assets)...
+[2026.02.26-15.52.32:662][533]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/llave/llave.llave]
+[2026.02.26-15.52.32:662][533]OBJ SavePackage: Finished generating thumbnails for package [/Game/llave/llave]
+[2026.02.26-15.52.32:662][533]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/llave/llave" FILE="../../../../../../Users/DamianRamosPlanell/Documents/GitHub/FK_mecanicas/Content/llave/llave.uasset" SILENT=true
+[2026.02.26-15.52.32:666][533]LogSavePackage: Moving output files for package: /Game/llave/llave
+[2026.02.26-15.52.32:667][533]LogSavePackage: Moving '../../../../../../Users/DamianRamosPlanell/Documents/GitHub/FK_mecanicas/Saved/llaveFE9F6BFF4954E8D7121330BFF556D3D9.tmp' to '../../../../../../Users/DamianRamosPlanell/Documents/GitHub/FK_mecanicas/Content/llave/llave.uasset'
+[2026.02.26-15.52.32:675][533]LogFileHelpers: InternalPromptForCheckoutAndSave took 97.782 ms (total: 264.768 ms)
+[2026.02.26-15.52.32:725][533]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.26-15.52.32:725][533]LogContentValidation: Enabled validators:
+[2026.02.26-15.52.32:725][533]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.26-15.52.32:725][533]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.26-15.52.32:725][533]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.26-15.52.32:725][533]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.26-15.52.32:725][533]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.26-15.52.32:725][533]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.26-15.52.32:725][533]AssetCheck: /Game/llave/llave Validating asset
+[2026.02.26-15.52.53:271][975]LogEditorTransaction: Undo Move Node
+[2026.02.26-15.52.54:007][  9]LogEditorTransaction: Undo Create Pin Link
+[2026.02.26-15.53.03:001][989]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2918.656250
+[2026.02.26-15.53.03:295][ 21]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.26-15.53.03:295][ 21]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2918.942627, Update Interval: 338.892792
+[2026.02.26-15.53.27:284][880]LogEditorTransaction: Undo Move Node
+[2026.02.26-15.53.27:975][906]LogEditorTransaction: Undo Move Node
+[2026.02.26-15.53.28:277][936]LogEditorTransaction: Undo Move Node
+[2026.02.26-15.53.28:590][967]LogEditorTransaction: Undo Move Node
+[2026.02.26-15.53.28:986][  8]LogEditorTransaction: Undo Create Reroute Node
+[2026.02.26-15.53.29:421][ 54]LogEditorTransaction: Undo Create Pin Link
+[2026.02.26-15.53.32:146][373]LogEditorTransaction: Undo Move Node
+[2026.02.26-15.53.44:957][849]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.26-15.53.45:007][849]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/llave/llave] ([2] browsable assets)...
+[2026.02.26-15.53.45:044][849]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/llave/llave.llave]
+[2026.02.26-15.53.45:044][849]OBJ SavePackage: Finished generating thumbnails for package [/Game/llave/llave]
+[2026.02.26-15.53.45:044][849]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/llave/llave" FILE="../../../../../../Users/DamianRamosPlanell/Documents/GitHub/FK_mecanicas/Content/llave/llave.uasset" SILENT=true
+[2026.02.26-15.53.45:049][849]LogSavePackage: Moving output files for package: /Game/llave/llave
+[2026.02.26-15.53.45:049][849]LogSavePackage: Moving '../../../../../../Users/DamianRamosPlanell/Documents/GitHub/FK_mecanicas/Saved/llave22198AAE43110803676987B05D1BCD9D.tmp' to '../../../../../../Users/DamianRamosPlanell/Documents/GitHub/FK_mecanicas/Content/llave/llave.uasset'
+[2026.02.26-15.53.45:057][849]LogFileHelpers: InternalPromptForCheckoutAndSave took 99.645 ms (total: 364.414 ms)
+[2026.02.26-15.53.45:105][849]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.26-15.53.45:105][849]LogContentValidation: Enabled validators:
+[2026.02.26-15.53.45:105][849]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.26-15.53.45:105][849]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.26-15.53.45:105][849]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.26-15.53.45:105][849]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.26-15.53.45:105][849]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.26-15.53.45:105][849]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.26-15.53.45:105][849]AssetCheck: /Game/llave/llave Validating asset
+[2026.02.26-15.59.25:790][788]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3301.426514
+[2026.02.26-15.59.25:961][797]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.26-15.59.25:961][797]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3301.577881, Update Interval: 325.055084
+[2026.02.26-16.05.44:896][765]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3680.521240
+[2026.02.26-16.05.45:085][775]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.26-16.05.45:085][775]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3680.690918, Update Interval: 310.951874
+[2026.02.26-16.06.08:591][ 13]LogDerivedDataCache: C:/Users/DamianRamosPlanell/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.02.26-16.11.27:156][784]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4022.772217
+[2026.02.26-16.11.27:327][793]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.26-16.11.27:327][793]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4022.924072, Update Interval: 335.226898
+[2026.02.26-16.17.58:437][386]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4414.046875
+[2026.02.26-16.17.58:626][396]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.26-16.17.58:628][396]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4414.218262, Update Interval: 331.390717
+[2026.02.26-16.21.29:348][497]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.02.26-16.21.29:353][497]LogContentBundle: [nivel_0(Standalone)] Generating Streaming for 0 Content Bundles.
+[2026.02.26-16.21.29:353][497]LogWorldPartition: Display: GenerateStreaming for 'nivel_0' started...
+[2026.02.26-16.21.29:356][497]LogWorldPartition: Display: GenerateStreaming for 'nivel_0' took 3.662 ms
+[2026.02.26-16.21.29:359][497]LogPlayLevel: [PlayLevel] Compiling llave before play...
+[2026.02.26-16.21.29:414][497]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2026.02.26-16.21.29:417][497]LogPlayLevel: PlayLevel: Blueprint regeneration took 58 ms (1 blueprints)
+[2026.02.26-16.21.29:423][497]LogOnline: OSS: Created online subsystem instance for: NULL
+[2026.02.26-16.21.29:423][497]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for type [NULL]
+[2026.02.26-16.21.29:424][497]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_nivel_0
+[2026.02.26-16.21.29:430][497]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006387s)
+[2026.02.26-16.21.29:430][497]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/nivel_0.nivel_0 to /Game/UEDPIE_0_nivel_0.nivel_0 (0.006443s)
+[2026.02.26-16.21.29:453][497]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2026.02.26-16.21.29:454][497]LogChaosDD: Creating Chaos Debug Draw Scene for world nivel_0
+[2026.02.26-16.21.29:456][497]LogWorldPartition: ULevel::OnLevelLoaded(nivel_0)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.02.26-16.21.29:456][497]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.02.26-16.21.29:456][497]LogWorldPartition: UWorldPartition::Initialize : World = /Game/UEDPIE_0_nivel_0.nivel_0, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.02.26-16.21.29:456][497]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.02.26-16.21.29:458][497]LogWorldPartition: Display: WorldPartition initialize took 2.449 ms (total: 761.004 ms)
+[2026.02.26-16.21.29:458][497]LogPlayLevel: PIE: World Init took: (0.004625s)
+[2026.02.26-16.21.29:459][497]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2026.02.26-16.21.29:459][497]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.02.26-16.21.29:459][497]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.02.26-16.21.29:460][497]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.02.26-16.21.29:460][497]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.02.26-16.21.29:460][497]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.02.26-16.21.29:460][497]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.02.26-16.21.29:460][497]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.02.26-16.21.29:460][497]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.02.26-16.21.29:460][497]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.02.26-16.21.29:460][497]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.02.26-16.21.29:460][497]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.02.26-16.21.29:462][497]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.02.26-16.21.29:497][497]LogAudioMixer: Display: Using Audio Hardware Device PL2745Q (NVIDIA High Definition Audio)
+[2026.02.26-16.21.29:497][497]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.02.26-16.21.29:497][497]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.02.26-16.21.29:497][497]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.02.26-16.21.29:498][497]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2026.02.26-16.21.29:498][497]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2026.02.26-16.21.29:501][497]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2026.02.26-16.21.29:501][497]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2026.02.26-16.21.29:501][497]LogInit: FAudioDevice initialized with ID 2.
+[2026.02.26-16.21.29:501][497]LogAudio: Display: Audio Device (ID: 2) registered with world 'nivel_0'.
+[2026.02.26-16.21.29:501][497]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2026.02.26-16.21.29:504][497]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.02.26-16.21.29:507][497]LogWorld: Bringing World /Game/UEDPIE_0_nivel_0.nivel_0 up for play (max tick rate 0) at 2026.02.26-17.21.29
+[2026.02.26-16.21.29:508][497]LogWorld: Bringing up level for play took: 0.002848
+[2026.02.26-16.21.29:510][497]LogOnline: OSS: Created online subsystem instance for: :Context_7
+[2026.02.26-16.21.29:528][497]PIE: Server logged in
+[2026.02.26-16.21.29:529][497]PIE: Play in editor total start time 0,176 seconds.
+[2026.02.26-16.22.03:817][869]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/pasillo"
+[2026.02.26-16.22.03:817][869]LogNet: Browse: /Game/pasillo
+[2026.02.26-16.22.03:817][869]LogLoad: LoadMap: /Game/pasillo
+[2026.02.26-16.22.03:817][869]LogWorld: BeginTearingDown for /Game/UEDPIE_0_nivel_0
+[2026.02.26-16.22.03:818][869]LogWorld: UWorld::CleanupWorld for nivel_0, bSessionEnded=true, bCleanupResources=true
+[2026.02.26-16.22.03:818][869]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.26-16.22.03:818][869]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/UEDPIE_0_nivel_0.nivel_0
+[2026.02.26-16.22.03:873][869]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.02.26-16.22.03:877][869]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2026.02.26-16.22.03:881][869]LogStreaming: Display: FlushAsyncLoading(721): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.26-16.22.03:932][869]LogAudio: Display: Audio Device (ID: 2) registered with world 'pasillo'.
+[2026.02.26-16.22.03:932][869]LogChaosDD: Creating Chaos Debug Draw Scene for world pasillo
+[2026.02.26-16.22.03:933][869]LogWorldPartition: ULevel::OnLevelLoaded(pasillo)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.02.26-16.22.03:933][869]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.02.26-16.22.03:933][869]LogWorldPartition: UWorldPartition::Initialize : World = /Game/UEDPIE_0_pasillo.pasillo, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 1, IsCooking = 0
+[2026.02.26-16.22.03:933][869]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.02.26-16.22.03:936][869]LogWorldPartition: Display: GenerateStreaming for 'pasillo' started...
+[2026.02.26-16.22.03:944][869]LogStreaming: Display: FGlobalImportStore:AddPackageRef: Dropping stale reference to package /Game/pasillo (0x9565CEF4B65FAC4C) that has been renamed to /Game/UEDPIE_0_pasillo (0x89D7A5B3C2F5919A)
+[2026.02.26-16.22.04:240][869]LogWorldPartition: Display: GenerateStreaming for 'pasillo' took 303.762 ms (total: 307.425 ms)
+[2026.02.26-16.22.04:242][869]LogWorldPartition: Display: WorldPartition initialize took 308.102 ms (total: 1.06 sec)
+[2026.02.26-16.22.04:242][869]LogPlayLevel: PIE: World Init took: (0.309631s)
+[2026.02.26-16.22.04:242][869]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.02.26-16.22.04:247][869]LogWorld: Bringing World /Game/UEDPIE_0_pasillo.pasillo up for play (max tick rate 0) at 2026.02.26-17.22.04
+[2026.02.26-16.22.04:247][869]LogWorld: Bringing up level for play took: 0.004806
+[2026.02.26-16.22.04:250][869]LogLoad: Took 0.433344 seconds to LoadMap(/Game/pasillo)
+[2026.02.26-16.22.04:250][869]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/pasillo
+[2026.02.26-16.22.04:289][870]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_6
+[2026.02.26-16.22.04:579][871]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_7
+[2026.02.26-16.22.18:169][345]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/nivel_01"
+[2026.02.26-16.22.18:169][345]LogNet: Browse: /Game/nivel_01
+[2026.02.26-16.22.18:169][345]LogLoad: LoadMap: /Game/nivel_01
+[2026.02.26-16.22.18:169][345]LogWorld: BeginTearingDown for /Game/UEDPIE_0_pasillo
+[2026.02.26-16.22.18:170][345]LogWorld: UWorld::CleanupWorld for pasillo, bSessionEnded=true, bCleanupResources=true
+[2026.02.26-16.22.18:170][345]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.26-16.22.18:170][345]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/UEDPIE_0_pasillo.pasillo
+[2026.02.26-16.22.18:234][345]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.02.26-16.22.18:238][345]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2026.02.26-16.22.18:241][345]LogStreaming: Display: FlushAsyncLoading(798): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.26-16.22.18:284][345]LogAudio: Display: Audio Device (ID: 2) registered with world 'nivel_01'.
+[2026.02.26-16.22.18:284][345]LogChaosDD: Creating Chaos Debug Draw Scene for world nivel_01
+[2026.02.26-16.22.18:285][345]LogWorldPartition: ULevel::OnLevelLoaded(nivel_01)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.02.26-16.22.18:285][345]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.02.26-16.22.18:285][345]LogWorldPartition: UWorldPartition::Initialize : World = /Game/UEDPIE_0_nivel_01.nivel_01, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 1, IsCooking = 0
+[2026.02.26-16.22.18:285][345]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.02.26-16.22.18:287][345]LogWorldPartition: Display: GenerateStreaming for 'nivel_01' started...
+[2026.02.26-16.22.18:296][345]LogStreaming: Display: FGlobalImportStore:AddPackageRef: Dropping stale reference to package /Game/nivel_01 (0x58F2A0D03C9C301) that has been renamed to /Game/UEDPIE_0_nivel_01 (0x684759CC7855E201)
+[2026.02.26-16.22.18:567][345]LogWorldPartition: Display: GenerateStreaming for 'nivel_01' took 280.536 ms (total: 587.961 ms)
+[2026.02.26-16.22.18:569][345]LogWorldPartition: Display: WorldPartition initialize took 283.913 ms (total: 1.35 sec)
+[2026.02.26-16.22.18:569][345]LogPlayLevel: PIE: World Init took: (0.285434s)
+[2026.02.26-16.22.18:569][345]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.02.26-16.22.18:573][345]LogWorld: Bringing World /Game/UEDPIE_0_nivel_01.nivel_01 up for play (max tick rate 0) at 2026.02.26-17.22.18
+[2026.02.26-16.22.18:573][345]LogWorld: Bringing up level for play took: 0.004210
+[2026.02.26-16.22.18:578][345]LogLoad: Took 0.409247 seconds to LoadMap(/Game/nivel_01)
+[2026.02.26-16.22.18:578][345]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/nivel_01
+[2026.02.26-16.22.29:641][809]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/pasillo"
+[2026.02.26-16.22.29:641][809]LogNet: Browse: /Game/pasillo
+[2026.02.26-16.22.29:641][809]LogLoad: LoadMap: /Game/pasillo
+[2026.02.26-16.22.29:641][809]LogWorld: BeginTearingDown for /Game/UEDPIE_0_nivel_01
+[2026.02.26-16.22.29:642][809]LogWorld: UWorld::CleanupWorld for nivel_01, bSessionEnded=true, bCleanupResources=true
+[2026.02.26-16.22.29:644][809]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.26-16.22.29:644][809]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/UEDPIE_0_nivel_01.nivel_01
+[2026.02.26-16.22.29:695][809]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.02.26-16.22.29:699][809]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2026.02.26-16.22.29:702][809]LogStreaming: Display: FlushAsyncLoading(864): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.26-16.22.29:707][809]LogAudio: Display: Audio Device (ID: 2) registered with world 'pasillo'.
+[2026.02.26-16.22.29:707][809]LogChaosDD: Creating Chaos Debug Draw Scene for world pasillo
+[2026.02.26-16.22.29:709][809]LogWorldPartition: ULevel::OnLevelLoaded(pasillo)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.02.26-16.22.29:709][809]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.02.26-16.22.29:709][809]LogWorldPartition: UWorldPartition::Initialize : World = /Game/UEDPIE_0_pasillo.pasillo, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 1, IsCooking = 0
+[2026.02.26-16.22.29:709][809]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.02.26-16.22.29:711][809]LogWorldPartition: Display: GenerateStreaming for 'pasillo' started...
+[2026.02.26-16.22.29:714][809]LogStreaming: Display: FGlobalImportStore:AddPackageRef: Dropping stale reference to package /Game/pasillo (0x9565CEF4B65FAC4C) that has been renamed to /Game/UEDPIE_0_pasillo (0x89D7A5B3C2F5919A)
+[2026.02.26-16.22.29:734][809]LogWorldPartition: Display: GenerateStreaming for 'pasillo' took 23.082 ms (total: 611.044 ms)
+[2026.02.26-16.22.29:735][809]LogWorldPartition: Display: WorldPartition initialize took 26.867 ms (total: 1.37 sec)
+[2026.02.26-16.22.29:735][809]LogPlayLevel: PIE: World Init took: (0.028350s)
+[2026.02.26-16.22.29:735][809]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.02.26-16.22.29:740][809]LogWorld: Bringing World /Game/UEDPIE_0_pasillo.pasillo up for play (max tick rate 0) at 2026.02.26-17.22.29
+[2026.02.26-16.22.29:740][809]LogWorld: Bringing up level for play took: 0.004884
+[2026.02.26-16.22.29:744][809]LogLoad: Took 0.103029 seconds to LoadMap(/Game/pasillo)
+[2026.02.26-16.22.29:745][809]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/pasillo
+[2026.02.26-16.22.33:300][933]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/nivel_01"
+[2026.02.26-16.22.33:300][933]LogNet: Browse: /Game/nivel_01
+[2026.02.26-16.22.33:300][933]LogLoad: LoadMap: /Game/nivel_01
+[2026.02.26-16.22.33:300][933]LogWorld: BeginTearingDown for /Game/UEDPIE_0_pasillo
+[2026.02.26-16.22.33:301][933]LogWorld: UWorld::CleanupWorld for pasillo, bSessionEnded=true, bCleanupResources=true
+[2026.02.26-16.22.33:302][933]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.26-16.22.33:302][933]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/UEDPIE_0_pasillo.pasillo
+[2026.02.26-16.22.33:366][933]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.02.26-16.22.33:369][933]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2026.02.26-16.22.33:372][933]LogStreaming: Display: FlushAsyncLoading(941): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.26-16.22.33:377][933]LogAudio: Display: Audio Device (ID: 2) registered with world 'nivel_01'.
+[2026.02.26-16.22.33:377][933]LogChaosDD: Creating Chaos Debug Draw Scene for world nivel_01
+[2026.02.26-16.22.33:378][933]LogWorldPartition: ULevel::OnLevelLoaded(nivel_01)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.02.26-16.22.33:378][933]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.02.26-16.22.33:378][933]LogWorldPartition: UWorldPartition::Initialize : World = /Game/UEDPIE_0_nivel_01.nivel_01, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 1, IsCooking = 0
+[2026.02.26-16.22.33:378][933]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.02.26-16.22.33:380][933]LogWorldPartition: Display: GenerateStreaming for 'nivel_01' started...
+[2026.02.26-16.22.33:383][933]LogStreaming: Display: FGlobalImportStore:AddPackageRef: Dropping stale reference to package /Game/nivel_01 (0x58F2A0D03C9C301) that has been renamed to /Game/UEDPIE_0_nivel_01 (0x684759CC7855E201)
+[2026.02.26-16.22.33:398][933]LogWorldPartition: Display: GenerateStreaming for 'nivel_01' took 18.661 ms (total: 629.705 ms)
+[2026.02.26-16.22.33:400][933]LogWorldPartition: Display: WorldPartition initialize took 22.110 ms (total: 1.40 sec)
+[2026.02.26-16.22.33:400][933]LogPlayLevel: PIE: World Init took: (0.023633s)
+[2026.02.26-16.22.33:400][933]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.02.26-16.22.33:404][933]LogWorld: Bringing World /Game/UEDPIE_0_nivel_01.nivel_01 up for play (max tick rate 0) at 2026.02.26-17.22.33
+[2026.02.26-16.22.33:404][933]LogWorld: Bringing up level for play took: 0.003908
+[2026.02.26-16.22.33:409][933]LogLoad: Took 0.107890 seconds to LoadMap(/Game/nivel_01)
+[2026.02.26-16.22.33:409][933]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/nivel_01
+[2026.02.26-16.22.36:450][ 59]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/pasillo"
+[2026.02.26-16.22.36:450][ 59]LogNet: Browse: /Game/pasillo
+[2026.02.26-16.22.36:450][ 59]LogLoad: LoadMap: /Game/pasillo
+[2026.02.26-16.22.36:450][ 59]LogWorld: BeginTearingDown for /Game/UEDPIE_0_nivel_01
+[2026.02.26-16.22.36:451][ 59]LogWorld: UWorld::CleanupWorld for nivel_01, bSessionEnded=true, bCleanupResources=true
+[2026.02.26-16.22.36:452][ 59]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.26-16.22.36:452][ 59]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/UEDPIE_0_nivel_01.nivel_01
+[2026.02.26-16.22.36:502][ 59]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.02.26-16.22.36:506][ 59]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2026.02.26-16.22.36:508][ 59]LogStreaming: Display: FlushAsyncLoading(1007): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.26-16.22.36:513][ 59]LogAudio: Display: Audio Device (ID: 2) registered with world 'pasillo'.
+[2026.02.26-16.22.36:513][ 59]LogChaosDD: Creating Chaos Debug Draw Scene for world pasillo
+[2026.02.26-16.22.36:515][ 59]LogWorldPartition: ULevel::OnLevelLoaded(pasillo)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.02.26-16.22.36:515][ 59]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.02.26-16.22.36:515][ 59]LogWorldPartition: UWorldPartition::Initialize : World = /Game/UEDPIE_0_pasillo.pasillo, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 1, IsCooking = 0
+[2026.02.26-16.22.36:515][ 59]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.02.26-16.22.36:516][ 59]LogWorldPartition: Display: GenerateStreaming for 'pasillo' started...
+[2026.02.26-16.22.36:521][ 59]LogStreaming: Display: FGlobalImportStore:AddPackageRef: Dropping stale reference to package /Game/pasillo (0x9565CEF4B65FAC4C) that has been renamed to /Game/UEDPIE_0_pasillo (0x89D7A5B3C2F5919A)
+[2026.02.26-16.22.36:540][ 59]LogWorldPartition: Display: GenerateStreaming for 'pasillo' took 22.963 ms (total: 652.668 ms)
+[2026.02.26-16.22.36:542][ 59]LogWorldPartition: Display: WorldPartition initialize took 26.839 ms (total: 1.42 sec)
+[2026.02.26-16.22.36:542][ 59]LogPlayLevel: PIE: World Init took: (0.028489s)
+[2026.02.26-16.22.36:542][ 59]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.02.26-16.22.36:546][ 59]LogWorld: Bringing World /Game/UEDPIE_0_pasillo.pasillo up for play (max tick rate 0) at 2026.02.26-17.22.36
+[2026.02.26-16.22.36:546][ 59]LogWorld: Bringing up level for play took: 0.004809
+[2026.02.26-16.22.36:551][ 59]LogLoad: Took 0.100792 seconds to LoadMap(/Game/pasillo)
+[2026.02.26-16.22.36:551][ 59]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/pasillo
+[2026.02.26-16.22.41:974][249]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/nivel_02"
+[2026.02.26-16.22.41:974][249]LogNet: Browse: /Game/nivel_02
+[2026.02.26-16.22.41:974][249]LogLoad: LoadMap: /Game/nivel_02
+[2026.02.26-16.22.41:974][249]LogWorld: BeginTearingDown for /Game/UEDPIE_0_pasillo
+[2026.02.26-16.22.41:975][249]LogWorld: UWorld::CleanupWorld for pasillo, bSessionEnded=true, bCleanupResources=true
+[2026.02.26-16.22.41:975][249]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.26-16.22.41:975][249]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/UEDPIE_0_pasillo.pasillo
+[2026.02.26-16.22.42:033][249]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.02.26-16.22.42:037][249]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2026.02.26-16.22.42:039][249]LogStreaming: Display: FlushAsyncLoading(1084): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.26-16.22.42:045][249]LogChaosDD: Creating Chaos Debug Draw Scene for world pasillo_2
+[2026.02.26-16.22.42:053][249]LogWorldPartition: ULevel::OnLevelLoaded(pasillo_2)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=1, InitializeForGame=0)
+[2026.02.26-16.22.42:053][249]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.02.26-16.22.42:053][249]LogWorldPartition: UWorldPartition::Initialize : World = /Game/pasillo_2.pasillo_2, World Type = Inactive, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.02.26-16.22.42:092][249]LogWorldPartition: Display: WorldPartition initialize took 39.034 ms (total: 1.46 sec)
+[2026.02.26-16.22.42:096][249]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_pasillo_2
+[2026.02.26-16.22.42:097][249]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000851s)
+[2026.02.26-16.22.42:097][249]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/pasillo_2.pasillo_2 to /Game/UEDPIE_0_pasillo_2.pasillo_2 (0.000892s)
+[2026.02.26-16.22.42:097][249]LogAudio: Display: Audio Device (ID: 2) registered with world 'pasillo_2'.
+[2026.02.26-16.22.42:097][249]LogChaosDD: Creating Chaos Debug Draw Scene for world pasillo_2
+[2026.02.26-16.22.42:098][249]LogWorldPartition: ULevel::OnLevelLoaded(pasillo_2)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.02.26-16.22.42:098][249]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.02.26-16.22.42:098][249]LogWorldPartition: UWorldPartition::Initialize : World = /Game/UEDPIE_0_pasillo_2.pasillo_2, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 1, IsCooking = 0
+[2026.02.26-16.22.42:098][249]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.02.26-16.22.42:098][249]LogWorldPartition: Display: GenerateStreaming for 'pasillo_2' started...
+[2026.02.26-16.22.42:121][249]LogWorldPartition: Display: GenerateStreaming for 'pasillo_2' took 22.629 ms (total: 675.298 ms)
+[2026.02.26-16.22.42:123][249]LogWorldPartition: Display: WorldPartition initialize took 24.867 ms (total: 1.49 sec)
+[2026.02.26-16.22.42:123][249]LogPlayLevel: PIE: World Init took: (0.026253s)
+[2026.02.26-16.22.42:123][249]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.02.26-16.22.42:125][249]LogWorld: Bringing World /Game/UEDPIE_0_pasillo_2.pasillo_2 up for play (max tick rate 0) at 2026.02.26-17.22.42
+[2026.02.26-16.22.42:126][249]LogWorld: Bringing up level for play took: 0.002569
+[2026.02.26-16.22.42:130][249]LogLoad: Took 0.156351 seconds to LoadMap(/Game/UEDPIE_0_pasillo_2)
+[2026.02.26-16.22.42:130][249]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/UEDPIE_0_pasillo_2
+[2026.02.26-16.22.42:170][250]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_8
+[2026.02.26-16.22.54:094][692]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/nivel_comedor"
+[2026.02.26-16.22.54:094][692]LogNet: Browse: /Game/nivel_comedor
+[2026.02.26-16.22.54:094][692]LogLoad: LoadMap: /Game/nivel_comedor
+[2026.02.26-16.22.54:094][692]LogWorld: BeginTearingDown for /Game/UEDPIE_0_pasillo_2
+[2026.02.26-16.22.54:095][692]LogWorld: UWorld::CleanupWorld for pasillo_2, bSessionEnded=true, bCleanupResources=true
+[2026.02.26-16.22.54:095][692]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.26-16.22.54:095][692]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/UEDPIE_0_pasillo_2.pasillo_2
+[2026.02.26-16.22.54:157][692]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.02.26-16.22.54:162][692]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2026.02.26-16.22.54:163][692]LogStreaming: Display: FlushAsyncLoading(1226): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.26-16.22.54:169][692]LogAudio: Display: Audio Device (ID: 2) registered with world 'nivel_comedor'.
+[2026.02.26-16.22.54:169][692]LogChaosDD: Creating Chaos Debug Draw Scene for world nivel_comedor
+[2026.02.26-16.22.54:171][692]LogWorldPartition: ULevel::OnLevelLoaded(nivel_comedor)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.02.26-16.22.54:171][692]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.02.26-16.22.54:171][692]LogWorldPartition: UWorldPartition::Initialize : World = /Game/UEDPIE_0_nivel_comedor.nivel_comedor, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 1, IsCooking = 0
+[2026.02.26-16.22.54:171][692]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.02.26-16.22.54:173][692]LogWorldPartition: Display: GenerateStreaming for 'nivel_comedor' started...
+[2026.02.26-16.22.54:177][692]LogStreaming: Display: FGlobalImportStore:AddPackageRef: Dropping stale reference to package /Game/nivel_comedor (0x4A6940B1AD65533D) that has been renamed to /Game/UEDPIE_0_nivel_comedor (0x42043F8E37297D88)
+[2026.02.26-16.22.54:201][692]LogWorldPartition: Display: GenerateStreaming for 'nivel_comedor' took 28.347 ms (total: 703.645 ms)
+[2026.02.26-16.22.54:203][692]LogWorldPartition: Display: WorldPartition initialize took 32.556 ms (total: 1.52 sec)
+[2026.02.26-16.22.54:203][692]LogPlayLevel: PIE: World Init took: (0.034127s)
+[2026.02.26-16.22.54:203][692]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.02.26-16.22.54:208][692]LogWorld: Bringing World /Game/UEDPIE_0_nivel_comedor.nivel_comedor up for play (max tick rate 0) at 2026.02.26-17.22.54
+[2026.02.26-16.22.54:208][692]LogWorld: Bringing up level for play took: 0.004414
+[2026.02.26-16.22.54:212][692]LogLoad: Took 0.118352 seconds to LoadMap(/Game/nivel_comedor)
+[2026.02.26-16.22.54:212][692]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/nivel_comedor
+[2026.02.26-16.22.54:251][693]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_9
+[2026.02.26-16.22.57:714][835]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/nivel_salon"
+[2026.02.26-16.22.57:714][835]LogNet: Browse: /Game/nivel_salon
+[2026.02.26-16.22.57:714][835]LogLoad: LoadMap: /Game/nivel_salon
+[2026.02.26-16.22.57:714][835]LogWorld: BeginTearingDown for /Game/UEDPIE_0_nivel_comedor
+[2026.02.26-16.22.57:715][835]LogWorld: UWorld::CleanupWorld for nivel_comedor, bSessionEnded=true, bCleanupResources=true
+[2026.02.26-16.22.57:716][835]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.26-16.22.57:716][835]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/UEDPIE_0_nivel_comedor.nivel_comedor
+[2026.02.26-16.22.57:768][835]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.02.26-16.22.57:772][835]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2026.02.26-16.22.57:774][835]LogStreaming: Display: FlushAsyncLoading(1296): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.26-16.22.57:780][835]LogAudio: Display: Audio Device (ID: 2) registered with world 'nivel_salon'.
+[2026.02.26-16.22.57:780][835]LogChaosDD: Creating Chaos Debug Draw Scene for world nivel_salon
+[2026.02.26-16.22.57:781][835]LogWorldPartition: ULevel::OnLevelLoaded(nivel_salon)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.02.26-16.22.57:781][835]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.02.26-16.22.57:781][835]LogWorldPartition: UWorldPartition::Initialize : World = /Game/UEDPIE_0_nivel_salon.nivel_salon, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 1, IsCooking = 0
+[2026.02.26-16.22.57:781][835]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.02.26-16.22.57:784][835]LogWorldPartition: Display: GenerateStreaming for 'nivel_salon' started...
+[2026.02.26-16.22.57:788][835]LogStreaming: Display: FGlobalImportStore:AddPackageRef: Dropping stale reference to package /Game/nivel_salon (0x12E497DFD4486144) that has been renamed to /Game/UEDPIE_0_nivel_salon (0xBC4EE70DE23243A9)
+[2026.02.26-16.22.57:814][835]LogWorldPartition: Display: GenerateStreaming for 'nivel_salon' took 29.709 ms (total: 733.354 ms)
+[2026.02.26-16.22.57:815][835]LogWorldPartition: Display: WorldPartition initialize took 34.044 ms (total: 1.55 sec)
+[2026.02.26-16.22.57:816][835]LogPlayLevel: PIE: World Init took: (0.035598s)
+[2026.02.26-16.22.57:816][835]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.02.26-16.22.57:819][835]LogWorld: Bringing World /Game/UEDPIE_0_nivel_salon.nivel_salon up for play (max tick rate 0) at 2026.02.26-17.22.57
+[2026.02.26-16.22.57:820][835]LogWorld: Bringing up level for play took: 0.004398
+[2026.02.26-16.22.57:824][835]LogLoad: Took 0.110082 seconds to LoadMap(/Game/nivel_salon)
+[2026.02.26-16.22.57:824][835]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/nivel_salon
+[2026.02.26-16.22.57:860][836]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_10
+[2026.02.26-16.23.08:609][254]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/nivel_estudio"
+[2026.02.26-16.23.08:609][254]LogNet: Browse: /Game/nivel_estudio
+[2026.02.26-16.23.08:609][254]LogLoad: LoadMap: /Game/nivel_estudio
+[2026.02.26-16.23.08:609][254]LogWorld: BeginTearingDown for /Game/UEDPIE_0_nivel_salon
+[2026.02.26-16.23.08:610][254]LogWorld: UWorld::CleanupWorld for nivel_salon, bSessionEnded=true, bCleanupResources=true
+[2026.02.26-16.23.08:611][254]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.26-16.23.08:611][254]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/UEDPIE_0_nivel_salon.nivel_salon
+[2026.02.26-16.23.08:671][254]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.02.26-16.23.08:675][254]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2026.02.26-16.23.08:677][254]LogStreaming: Display: FlushAsyncLoading(1372): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.26-16.23.08:682][254]LogAudio: Display: Audio Device (ID: 2) registered with world 'nivel_estudio'.
+[2026.02.26-16.23.08:682][254]LogChaosDD: Creating Chaos Debug Draw Scene for world nivel_estudio
+[2026.02.26-16.23.08:684][254]LogWorldPartition: ULevel::OnLevelLoaded(nivel_estudio)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.02.26-16.23.08:684][254]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.02.26-16.23.08:684][254]LogWorldPartition: UWorldPartition::Initialize : World = /Game/UEDPIE_0_nivel_estudio.nivel_estudio, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 1, IsCooking = 0
+[2026.02.26-16.23.08:684][254]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.02.26-16.23.08:686][254]LogWorldPartition: Display: GenerateStreaming for 'nivel_estudio' started...
+[2026.02.26-16.23.08:690][254]LogStreaming: Display: FGlobalImportStore:AddPackageRef: Dropping stale reference to package /Game/nivel_estudio (0x54BC506C8DBC5208) that has been renamed to /Game/UEDPIE_0_nivel_estudio (0x3F2599EE4C0810C8)
+[2026.02.26-16.23.08:716][254]LogWorldPartition: Display: GenerateStreaming for 'nivel_estudio' took 29.505 ms (total: 762.860 ms)
+[2026.02.26-16.23.08:718][254]LogWorldPartition: Display: WorldPartition initialize took 33.796 ms (total: 1.59 sec)
+[2026.02.26-16.23.08:718][254]LogPlayLevel: PIE: World Init took: (0.035326s)
+[2026.02.26-16.23.08:718][254]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.02.26-16.23.08:723][254]LogWorld: Bringing World /Game/UEDPIE_0_nivel_estudio.nivel_estudio up for play (max tick rate 0) at 2026.02.26-17.23.08
+[2026.02.26-16.23.08:723][254]LogWorld: Bringing up level for play took: 0.004678
+[2026.02.26-16.23.08:727][254]LogLoad: Took 0.117423 seconds to LoadMap(/Game/nivel_estudio)
+[2026.02.26-16.23.08:727][254]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/nivel_estudio
+[2026.02.26-16.23.08:767][255]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_11
+[2026.02.26-16.23.27:690][ 30]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/nivel_pasillofinal"
+[2026.02.26-16.23.27:690][ 30]LogNet: Browse: /Game/nivel_pasillofinal
+[2026.02.26-16.23.27:691][ 30]LogLoad: LoadMap: /Game/nivel_pasillofinal
+[2026.02.26-16.23.27:691][ 30]LogWorld: BeginTearingDown for /Game/UEDPIE_0_nivel_estudio
+[2026.02.26-16.23.27:691][ 30]LogWorld: UWorld::CleanupWorld for nivel_estudio, bSessionEnded=true, bCleanupResources=true
+[2026.02.26-16.23.27:692][ 30]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.26-16.23.27:692][ 30]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/UEDPIE_0_nivel_estudio.nivel_estudio
+[2026.02.26-16.23.27:750][ 30]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.02.26-16.23.27:754][ 30]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2026.02.26-16.23.27:757][ 30]LogStreaming: Display: FlushAsyncLoading(1445): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.26-16.23.27:762][ 30]LogAudio: Display: Audio Device (ID: 2) registered with world 'nivel_pasillofinal'.
+[2026.02.26-16.23.27:762][ 30]LogChaosDD: Creating Chaos Debug Draw Scene for world nivel_pasillofinal
+[2026.02.26-16.23.27:764][ 30]LogWorldPartition: ULevel::OnLevelLoaded(nivel_pasillofinal)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.02.26-16.23.27:764][ 30]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.02.26-16.23.27:764][ 30]LogWorldPartition: UWorldPartition::Initialize : World = /Game/UEDPIE_0_nivel_pasillofinal.nivel_pasillofinal, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 1, IsCooking = 0
+[2026.02.26-16.23.27:764][ 30]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.02.26-16.23.27:766][ 30]LogWorldPartition: Display: GenerateStreaming for 'nivel_pasillofinal' started...
+[2026.02.26-16.23.27:770][ 30]LogStreaming: Display: FGlobalImportStore:AddPackageRef: Dropping stale reference to package /Game/nivel_pasillofinal (0xDB3483271A267013) that has been renamed to /Game/UEDPIE_0_nivel_pasillofinal (0xBBB2E007CF2A4ED1)
+[2026.02.26-16.23.27:792][ 30]LogWorldPartition: Display: GenerateStreaming for 'nivel_pasillofinal' took 26.986 ms (total: 789.846 ms)
+[2026.02.26-16.23.27:795][ 30]LogWorldPartition: Display: WorldPartition initialize took 31.422 ms (total: 1.62 sec)
+[2026.02.26-16.23.27:795][ 30]LogPlayLevel: PIE: World Init took: (0.032941s)
+[2026.02.26-16.23.27:795][ 30]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.02.26-16.23.27:800][ 30]LogWorld: Bringing World /Game/UEDPIE_0_nivel_pasillofinal.nivel_pasillofinal up for play (max tick rate 0) at 2026.02.26-17.23.27
+[2026.02.26-16.23.27:801][ 30]LogWorld: Bringing up level for play took: 0.005251
+[2026.02.26-16.23.27:805][ 30]LogLoad: Took 0.115194 seconds to LoadMap(/Game/nivel_pasillofinal)
+[2026.02.26-16.23.27:805][ 30]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/nivel_pasillofinal
+[2026.02.26-16.23.36:022][346]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/nivel_estudio"
+[2026.02.26-16.23.36:022][346]LogNet: Browse: /Game/nivel_estudio
+[2026.02.26-16.23.36:022][346]LogLoad: LoadMap: /Game/nivel_estudio
+[2026.02.26-16.23.36:022][346]LogWorld: BeginTearingDown for /Game/UEDPIE_0_nivel_pasillofinal
+[2026.02.26-16.23.36:023][346]LogWorld: UWorld::CleanupWorld for nivel_pasillofinal, bSessionEnded=true, bCleanupResources=true
+[2026.02.26-16.23.36:023][346]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.26-16.23.36:023][346]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/UEDPIE_0_nivel_pasillofinal.nivel_pasillofinal
+[2026.02.26-16.23.36:081][346]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.02.26-16.23.36:085][346]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2026.02.26-16.23.36:087][346]LogStreaming: Display: FlushAsyncLoading(1521): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.26-16.23.36:092][346]LogAudio: Display: Audio Device (ID: 2) registered with world 'nivel_estudio'.
+[2026.02.26-16.23.36:092][346]LogChaosDD: Creating Chaos Debug Draw Scene for world nivel_estudio
+[2026.02.26-16.23.36:094][346]LogWorldPartition: ULevel::OnLevelLoaded(nivel_estudio)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.02.26-16.23.36:094][346]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.02.26-16.23.36:094][346]LogWorldPartition: UWorldPartition::Initialize : World = /Game/UEDPIE_0_nivel_estudio.nivel_estudio, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 1, IsCooking = 0
+[2026.02.26-16.23.36:094][346]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.02.26-16.23.36:096][346]LogWorldPartition: Display: GenerateStreaming for 'nivel_estudio' started...
+[2026.02.26-16.23.36:100][346]LogStreaming: Display: FGlobalImportStore:AddPackageRef: Dropping stale reference to package /Game/nivel_estudio (0x54BC506C8DBC5208) that has been renamed to /Game/UEDPIE_0_nivel_estudio (0x3F2599EE4C0810C8)
+[2026.02.26-16.23.36:119][346]LogWorldPartition: Display: GenerateStreaming for 'nivel_estudio' took 22.948 ms (total: 812.794 ms)
+[2026.02.26-16.23.36:121][346]LogWorldPartition: Display: WorldPartition initialize took 26.700 ms (total: 1.65 sec)
+[2026.02.26-16.23.36:121][346]LogPlayLevel: PIE: World Init took: (0.028421s)
+[2026.02.26-16.23.36:121][346]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.02.26-16.23.36:125][346]LogWorld: Bringing World /Game/UEDPIE_0_nivel_estudio.nivel_estudio up for play (max tick rate 0) at 2026.02.26-17.23.36
+[2026.02.26-16.23.36:126][346]LogWorld: Bringing up level for play took: 0.004460
+[2026.02.26-16.23.36:130][346]LogLoad: Took 0.108067 seconds to LoadMap(/Game/nivel_estudio)
+[2026.02.26-16.23.36:130][346]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/nivel_estudio
+[2026.02.26-16.23.39:320][478]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.26-16.23.39:320][478]LogWorld: BeginTearingDown for /Game/UEDPIE_0_nivel_estudio
+[2026.02.26-16.23.39:320][478]LogWorld: UWorld::CleanupWorld for nivel_estudio, bSessionEnded=true, bCleanupResources=true
+[2026.02.26-16.23.39:321][478]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.26-16.23.39:321][478]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/UEDPIE_0_nivel_estudio.nivel_estudio
+[2026.02.26-16.23.39:336][478]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.02.26-16.23.39:341][478]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.26-16.23.39:365][478]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.26-16.23.39:365][478]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2026.02.26-16.23.39:366][478]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2026.02.26-16.23.39:368][478]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2026.02.26-16.23.39:378][478]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2026.02.26-16.23.39:456][479]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2026.02.26-16.23.48:439][937]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2026.02.26-16.23.48:442][937]LogAssetEditorSubsystem: Opening Asset editor for World /Game/nivel_0.nivel_0
+[2026.02.26-16.23.48:443][937]Cmd: MAP LOAD FILE="../../../../../../Users/DamianRamosPlanell/Documents/GitHub/FK_mecanicas/Content/nivel_0.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2026.02.26-16.23.48:463][937]LogWorld: UWorld::CleanupWorld for nivel_0, bSessionEnded=true, bCleanupResources=true
+[2026.02.26-16.23.48:463][937]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.26-16.23.48:463][937]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/nivel_0.nivel_0
+[2026.02.26-16.23.48:497][937]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.02.26-16.23.48:502][937]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2026.02.26-16.23.48:504][937]LogWorld: UWorld::CleanupWorld for pasillo_2, bSessionEnded=true, bCleanupResources=true
+[2026.02.26-16.23.48:504][937]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.26-16.23.48:504][937]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/pasillo_2.pasillo_2
+[2026.02.26-16.23.48:532][937]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2026.02.26-16.23.48:619][937]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2026.02.26-16.23.48:619][937]LogStreaming: Display: FlushAsyncLoading(1594): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.26-16.23.48:627][937]LogAudio: Display: Audio Device (ID: 1) registered with world 'nivel_0'.
+[2026.02.26-16.23.48:627][937]LogChaosDD: Creating Chaos Debug Draw Scene for world nivel_0
+[2026.02.26-16.23.48:629][937]LogWorldPartition: ULevel::OnLevelLoaded(nivel_0)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=1, InitializeForGame=0)
+[2026.02.26-16.23.48:629][937]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.02.26-16.23.48:629][937]LogWorldPartition: UWorldPartition::Initialize : World = /Game/nivel_0.nivel_0, World Type = Editor, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.02.26-16.23.48:665][937]LogWorldPartition: Display: WorldPartition initialize took 35.675 ms (total: 1.68 sec)
+[2026.02.26-16.23.48:684][937]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.02.26-16.23.48:711][937]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2026.02.26-16.23.48:717][937]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.02.26-16.23.48:718][937]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,617ms to complete.
+[2026.02.26-16.24.08:793][965]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4784.417480
+[2026.02.26-16.24.09:141][983]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.26-16.24.09:141][983]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4784.747070, Update Interval: 327.565552
+[2026.02.26-16.30.22:735][443]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5158.337402
+[2026.02.26-16.30.22:927][453]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.26-16.30.22:927][453]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5158.509766, Update Interval: 315.756714
+[2026.02.26-16.31.22:774][795]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.26-16.31.22:827][795]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/llave/llave] ([2] browsable assets)...
+[2026.02.26-16.31.22:864][795]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/llave/llave.llave]
+[2026.02.26-16.31.22:864][795]OBJ SavePackage: Finished generating thumbnails for package [/Game/llave/llave]
+[2026.02.26-16.31.22:864][795]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/llave/llave" FILE="../../../../../../Users/DamianRamosPlanell/Documents/GitHub/FK_mecanicas/Content/llave/llave.uasset" SILENT=true
+[2026.02.26-16.31.22:869][795]LogSavePackage: Moving output files for package: /Game/llave/llave
+[2026.02.26-16.31.22:870][795]LogSavePackage: Moving '../../../../../../Users/DamianRamosPlanell/Documents/GitHub/FK_mecanicas/Saved/llave44F6CA234CFDA238996120B62D8C0F06.tmp' to '../../../../../../Users/DamianRamosPlanell/Documents/GitHub/FK_mecanicas/Content/llave/llave.uasset'
+[2026.02.26-16.31.22:877][795]LogFileHelpers: InternalPromptForCheckoutAndSave took 103.408 ms (total: 467.822 ms)
+[2026.02.26-16.31.22:926][795]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.26-16.31.22:926][795]LogContentValidation: Enabled validators:
+[2026.02.26-16.31.22:926][795]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.26-16.31.22:926][795]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.26-16.31.22:926][795]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.26-16.31.22:926][795]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.26-16.31.22:926][795]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.26-16.31.22:926][795]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.26-16.31.22:926][795]AssetCheck: /Game/llave/llave Validating asset
+[2026.02.26-16.36.32:655][ 33]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5528.218750
+[2026.02.26-16.36.32:845][ 43]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.26-16.36.32:845][ 43]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5528.390625, Update Interval: 333.295074
+[2026.02.26-16.38.48:586][152]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.02.26-16.38.48:592][152]LogContentBundle: [nivel_0(Standalone)] Generating Streaming for 0 Content Bundles.
+[2026.02.26-16.38.48:592][152]LogWorldPartition: Display: GenerateStreaming for 'nivel_0' started...
+[2026.02.26-16.38.48:595][152]LogWorldPartition: Display: GenerateStreaming for 'nivel_0' took 3.503 ms (total: 816.298 ms)
+[2026.02.26-16.38.48:596][152]LogPlayLevel: [PlayLevel] Compiling llave before play...
+[2026.02.26-16.38.48:660][152]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2026.02.26-16.38.48:662][152]LogPlayLevel: PlayLevel: Blueprint regeneration took 65 ms (1 blueprints)
+[2026.02.26-16.38.48:662][152]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_nivel_0
+[2026.02.26-16.38.48:667][152]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005423s)
+[2026.02.26-16.38.48:667][152]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/nivel_0.nivel_0 to /Game/UEDPIE_0_nivel_0.nivel_0 (0.005467s)
+[2026.02.26-16.38.48:691][152]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2026.02.26-16.38.48:692][152]LogChaosDD: Creating Chaos Debug Draw Scene for world nivel_0
+[2026.02.26-16.38.48:693][152]LogWorldPartition: ULevel::OnLevelLoaded(nivel_0)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.02.26-16.38.48:693][152]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.02.26-16.38.48:693][152]LogWorldPartition: UWorldPartition::Initialize : World = /Game/UEDPIE_0_nivel_0.nivel_0, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.02.26-16.38.48:693][152]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.02.26-16.38.48:695][152]LogWorldPartition: Display: WorldPartition initialize took 2.099 ms (total: 1.68 sec)
+[2026.02.26-16.38.48:695][152]LogPlayLevel: PIE: World Init took: (0.003991s)
+[2026.02.26-16.38.48:696][152]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2026.02.26-16.38.48:697][152]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.02.26-16.38.48:697][152]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.02.26-16.38.48:697][152]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.02.26-16.38.48:697][152]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.02.26-16.38.48:697][152]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.02.26-16.38.48:697][152]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.02.26-16.38.48:697][152]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.02.26-16.38.48:697][152]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.02.26-16.38.48:697][152]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.02.26-16.38.48:697][152]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.02.26-16.38.48:697][152]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.02.26-16.38.48:701][152]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.02.26-16.38.48:730][152]LogAudioMixer: Display: Using Audio Hardware Device PL2745Q (NVIDIA High Definition Audio)
+[2026.02.26-16.38.48:730][152]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.02.26-16.38.48:730][152]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.02.26-16.38.48:730][152]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.02.26-16.38.48:731][152]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2026.02.26-16.38.48:731][152]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2026.02.26-16.38.48:733][152]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2026.02.26-16.38.48:733][152]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2026.02.26-16.38.48:733][152]LogInit: FAudioDevice initialized with ID 3.
+[2026.02.26-16.38.48:733][152]LogAudio: Display: Audio Device (ID: 3) registered with world 'nivel_0'.
+[2026.02.26-16.38.48:733][152]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2026.02.26-16.38.48:737][152]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.02.26-16.38.48:740][152]LogWorld: Bringing World /Game/UEDPIE_0_nivel_0.nivel_0 up for play (max tick rate 0) at 2026.02.26-17.38.48
+[2026.02.26-16.38.48:740][152]LogWorld: Bringing up level for play took: 0.002683
+[2026.02.26-16.38.48:743][152]LogOnline: OSS: Created online subsystem instance for: :Context_14
+[2026.02.26-16.38.48:748][152]PIE: Server logged in
+[2026.02.26-16.38.48:749][152]PIE: Play in editor total start time 0,158 seconds.
+[2026.02.26-16.39.53:280][731]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/pasillo"
+[2026.02.26-16.39.53:280][731]LogNet: Browse: /Game/pasillo
+[2026.02.26-16.39.53:280][731]LogLoad: LoadMap: /Game/pasillo
+[2026.02.26-16.39.53:280][731]LogWorld: BeginTearingDown for /Game/UEDPIE_0_nivel_0
+[2026.02.26-16.39.53:281][731]LogWorld: UWorld::CleanupWorld for nivel_0, bSessionEnded=true, bCleanupResources=true
+[2026.02.26-16.39.53:281][731]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.26-16.39.53:281][731]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/UEDPIE_0_nivel_0.nivel_0
+[2026.02.26-16.39.53:335][731]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.02.26-16.39.53:337][731]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2026.02.26-16.39.53:339][731]LogStreaming: Display: FlushAsyncLoading(1666): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.26-16.39.53:345][731]LogAudio: Display: Audio Device (ID: 3) registered with world 'pasillo'.
+[2026.02.26-16.39.53:345][731]LogChaosDD: Creating Chaos Debug Draw Scene for world pasillo
+[2026.02.26-16.39.53:347][731]LogWorldPartition: ULevel::OnLevelLoaded(pasillo)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.02.26-16.39.53:347][731]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.02.26-16.39.53:347][731]LogWorldPartition: UWorldPartition::Initialize : World = /Game/UEDPIE_0_pasillo.pasillo, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 1, IsCooking = 0
+[2026.02.26-16.39.53:347][731]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.02.26-16.39.53:349][731]LogWorldPartition: Display: GenerateStreaming for 'pasillo' started...
+[2026.02.26-16.39.53:353][731]LogStreaming: Display: FGlobalImportStore:AddPackageRef: Dropping stale reference to package /Game/pasillo (0x9565CEF4B65FAC4C) that has been renamed to /Game/UEDPIE_0_pasillo (0x89D7A5B3C2F5919A)
+[2026.02.26-16.39.53:374][731]LogWorldPartition: Display: GenerateStreaming for 'pasillo' took 25.850 ms (total: 842.148 ms)
+[2026.02.26-16.39.53:376][731]LogWorldPartition: Display: WorldPartition initialize took 29.821 ms (total: 1.71 sec)
+[2026.02.26-16.39.53:376][731]LogPlayLevel: PIE: World Init took: (0.031386s)
+[2026.02.26-16.39.53:376][731]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.02.26-16.39.53:382][731]LogWorld: Bringing World /Game/UEDPIE_0_pasillo.pasillo up for play (max tick rate 0) at 2026.02.26-17.39.53
+[2026.02.26-16.39.53:382][731]LogWorld: Bringing up level for play took: 0.005119
+[2026.02.26-16.39.53:386][731]LogLoad: Took 0.105690 seconds to LoadMap(/Game/pasillo)
+[2026.02.26-16.39.53:386][731]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/pasillo
+[2026.02.26-16.42.49:721][729]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5905.294922
+[2026.02.26-16.42.49:900][735]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.26-16.42.49:900][735]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5905.445801, Update Interval: 337.565247
+[2026.02.26-16.47.34:810][292]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.26-16.47.34:810][292]LogWorld: BeginTearingDown for /Game/UEDPIE_0_pasillo
+[2026.02.26-16.47.34:810][292]LogWorld: UWorld::CleanupWorld for pasillo, bSessionEnded=true, bCleanupResources=true
+[2026.02.26-16.47.34:811][292]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.26-16.47.34:811][292]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/UEDPIE_0_pasillo.pasillo
+[2026.02.26-16.47.34:841][292]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.02.26-16.47.34:845][292]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.26-16.47.34:869][292]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.26-16.47.34:870][292]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2026.02.26-16.47.34:870][292]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2026.02.26-16.47.34:872][292]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2026.02.26-16.47.34:883][292]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2026.02.26-16.47.34:921][293]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2026.02.26-16.49.10:881][224]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6286.399414
+[2026.02.26-16.49.11:055][233]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.26-16.49.11:055][233]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6286.554199, Update Interval: 319.169891
+[2026.02.26-16.55.20:191][509]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6655.712891
+[2026.02.26-16.55.20:382][519]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.26-16.55.20:382][519]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6655.883789, Update Interval: 313.205963
+[2026.02.26-17.01.05:214][533]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7000.739746
+[2026.02.26-17.01.05:386][542]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.26-17.01.05:386][543]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7000.893066, Update Interval: 318.948334
+[2026.02.26-17.06.08:592][416]LogDerivedDataCache: C:/Users/DamianRamosPlanell/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.02.26-17.07.16:252][959]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7371.784668
+[2026.02.26-17.07.16:404][967]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.26-17.07.16:404][967]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7371.917969, Update Interval: 332.643219
+[2026.02.26-17.13.27:360][360]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7742.903320
+[2026.02.26-17.13.27:513][368]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.26-17.13.27:513][369]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7743.036133, Update Interval: 300.928375
+[2026.02.26-17.19.25:512][114]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8101.074707
+[2026.02.26-17.19.25:854][132]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.26-17.19.25:854][132]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8101.397461, Update Interval: 301.933655
+[2026.02.26-17.25.16:086][459]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8451.592773
+[2026.02.26-17.25.16:298][470]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.26-17.25.16:298][470]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8451.786133, Update Interval: 319.483032
+[2026.02.26-17.31.24:581][760]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8820.043945
+[2026.02.26-17.31.24:732][768]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.26-17.31.24:732][768]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8820.173828, Update Interval: 348.854034
+[2026.02.26-17.37.46:264][755]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9201.653320
+[2026.02.26-17.37.46:436][764]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.26-17.37.46:436][764]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9201.806641, Update Interval: 310.343933
+[2026.02.26-17.43.35:912][ 48]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9551.299805
+[2026.02.26-17.43.36:085][ 57]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.26-17.43.36:085][ 58]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9551.453125, Update Interval: 306.861176
+[2026.02.26-17.49.13:940][760]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9889.314453
+[2026.02.26-17.49.14:132][770]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.26-17.49.14:132][770]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9889.486328, Update Interval: 321.359894
+[2026.02.26-17.55.12:012][492]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10247.312500
+[2026.02.26-17.55.12:203][502]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.26-17.55.12:203][503]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10247.485352, Update Interval: 306.852020
+[2026.02.26-18.01.08:042][137]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10603.363281
+[2026.02.26-18.01.08:233][147]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.26-18.01.08:233][147]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10603.535156, Update Interval: 333.194366
+[2026.02.26-18.06.08:592][887]LogDerivedDataCache: C:/Users/DamianRamosPlanell/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.02.26-18.07.13:299][263]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10968.563477
+[2026.02.26-18.07.13:454][271]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.26-18.07.13:454][271]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10968.698242, Update Interval: 318.543671
+[2026.02.26-18.13.03:184][573]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11318.496094
+[2026.02.26-18.13.03:394][584]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.26-18.13.03:394][584]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11318.687500, Update Interval: 346.876434
