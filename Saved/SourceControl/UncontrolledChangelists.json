@@ -1,0 +1,19 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Lista de cambios no controlados predeterminada",
+			"files": [
+				"C:/Users/erpla/OneDrive/Documentos/GIT/FK_mecanicas/Content/reflective_objects/ReflectiveObjectPickup.uasset",
+				"C:/Users/erpla/OneDrive/Documentos/GIT/FK_mecanicas/Content/puerta_blockout.uasset",
+				"C:/Users/erpla/OneDrive/Documentos/GIT/FK_mecanicas/Content/__ExternalActors__/nivel_comedor/1/M2/GSKAS21LUMBLTE8UML2L81.uasset",
+				"C:/Users/erpla/OneDrive/Documentos/GIT/FK_mecanicas/Content/chrysanthemum/chrysanthemum_pickup.uasset",
+				"C:/Users/erpla/OneDrive/Documentos/GIT/FK_mecanicas/Content/__ExternalActors__/nivel_comedor/B/O0/5PM102TUR2AGYVQ7G2QCCN.uasset",
+				"C:/Users/erpla/OneDrive/Documentos/GIT/FK_mecanicas/Content/__ExternalActors__/nivel_comedor/0/24/3IZXG95JIHBHE7VECP4UYU.uasset",
+				"C:/Users/erpla/OneDrive/Documentos/GIT/FK_mecanicas/Content/animations/khris/khris_combination.uasset",
+				"C:/Users/erpla/OneDrive/Documentos/GIT/FK_mecanicas/Content/animations/khris/Khris_Idleidle_ou_yea_Anim1.uasset"
+			]
+		}
+	]
+}
