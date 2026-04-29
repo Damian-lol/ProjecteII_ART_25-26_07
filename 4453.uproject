@@ -10,18 +10,6 @@
 			"TargetAllowList": [
 				"Editor"
 			]
-		},
-		{
-			"Name": "FMODStudio",
-			"Enabled": true
-		},
-		{
-			"Name": "FMODStudioNiagara",
-			"Enabled": true
-		},
-		{
-			"Name": "FMODStudioOpenXR",
-			"Enabled": true
 		}
 	]
 }
